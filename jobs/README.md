@@ -26,4 +26,7 @@ su hadoop
 stop-all.sh
 
 
+#depot git  /Hddt21  /victorwenji /jenniecm
+
+
 
